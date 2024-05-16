@@ -1,0 +1,9 @@
+key-generator
+discord
+datetime
+flask
+typing
+random
+requests
+asyncio
+wonderwords
